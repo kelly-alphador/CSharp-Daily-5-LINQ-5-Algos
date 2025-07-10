@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197 d17.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Daily-5-LINQ-5-Algos", "CSharp-Daily-5-LINQ-5-Algos\CSharp-Daily-5-LINQ-5-Algos.csproj", "{ED2B328F-BEE4-4281-96C8-8805D8A0F242}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesMethodes.core", "MesMethodes.core\MesMethodes.core.csproj", "{CFDCB0D0-5470-4C8A-83F2-F8D7B93828E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ED2B328F-BEE4-4281-96C8-8805D8A0F242}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED2B328F-BEE4-4281-96C8-8805D8A0F242}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED2B328F-BEE4-4281-96C8-8805D8A0F242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDCB0D0-5470-4C8A-83F2-F8D7B93828E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDCB0D0-5470-4C8A-83F2-F8D7B93828E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDCB0D0-5470-4C8A-83F2-F8D7B93828E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDCB0D0-5470-4C8A-83F2-F8D7B93828E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
