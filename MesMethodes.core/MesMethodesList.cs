@@ -225,6 +225,15 @@ namespace MesMethodes.core
             }
             return list;
         }
+        public int produit(List<int> list) 
+        {
+            int p = 1;
+            for(int i = 0;i < list.Count;i++)
+            {
+                p=p*list[i];
+            }
+            return p;
+        }
 
     }
 }
